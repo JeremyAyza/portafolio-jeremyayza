@@ -3,12 +3,24 @@ import "./Portafolio.css"
 export default function Portafolio() {
 	return (
 		<section className="portafolio" id="portfolio">
-			<h2 className="section__title">Portafolio</h2>
+			<h2 className="section__title">Portfolio</h2>
 			<div className="portafolio_content"></div>
-			<h3>Here you can see the projects I have worked on.</h3>
+			<h3>Proyectos que he realizado</h3>
 			<div className="grid_projects">
 
 				
+
+				<Projects
+					imgName="todo-react"
+					title="React Todo List"
+					description="Web Application: React JS."
+					urlRepostitory="https://github.com/JeremyAyza/todo-react"
+					urlWebsite="https://todo-react-ja.netlify.app/"
+				></Projects> 
+
+				
+				
+
 				<Projects
 					imgName="ecommerce-frontend1"
 					title="Ecommerces Page"
@@ -17,6 +29,13 @@ export default function Portafolio() {
 					urlWebsite="https://frontend-ecommerce-page.netlify.app/"
 				></Projects>
 				
+				<Projects
+					imgName="pokedex_page"
+					title="POKÉDEX PAGE"
+					description="Front-End Web Application: React and Tailwind."
+					urlRepostitory="https://github.com/JeremyAyza/Pokedex-consumption-api"
+					urlWebsite="https://pokedex-5add.onrender.com/"
+				></Projects>
 
 				
 				<Projects
@@ -24,45 +43,33 @@ export default function Portafolio() {
 					title="React Calculator"
 					description="Web Application: React JS"
 					urlRepostitory="https://github.com/JeremyAyza/calculadora-react"
-					urlWebsite="https://calculator-react-fcc.herokuapp.com/"
+					urlWebsite="https://calculator-react-ja.netlify.app/"
 				></Projects>
-
+				
 
 				<Projects
-					imgName="todolist-app-js"
-					title="ToDo List JS"
-					description="Web Application: HTML, CSS and JS (using local storage)."
-					urlRepostitory="https://github.com/JeremyAyza/todolist-app-js"
-					urlWebsite="https://todolist-app-js1.netlify.app/todolist"
+					imgName="api-joe"
+					title="API - Joe Inventory"
+					description="Web Backend: Node, Express and MongoDB"
+					urlRepostitory="https://github.com/JeremyAyza/api-joi-inventory2"
+					urlWebsite="https://api-joi-inventory2.onrender.com/api/producto"
 				></Projects>
+
 
 				
 
 				
-				
-				<Projects
-					imgName="todo-react"
-					title="React Todo List"
-					description="Web Application: React JS."
-					urlRepostitory="https://github.com/JeremyAyza/todo-react"
-					urlWebsite="https://react-app-todolist1.herokuapp.com/"
-				></Projects>
 
-				<Projects
-					imgName="all-star-apps"
-					title="ALL STAR APP's"
-					description="Website: Handlebars, NodeJS and Express."
-					urlRepostitory="https://github.com/JeremyAyza/all-star-apps"
-					urlWebsite="https://all-star-apps.herokuapp.com/"
-				></Projects>
-				
+							
 				<Projects
 					imgName="front-end-system"
 					title="JCUBA SYSTEM"
 					description="Front-End Web Application: Bootstrap, React and TypeScript."
 					urlRepostitory="https://github.com/JeremyAyza/front-end-system"
-					urlWebsite="https://front-end-system.herokuapp.com/"
+					urlWebsite="https://front-end-sys.onrender.com"
 				></Projects>
+
+				
 
 				
 

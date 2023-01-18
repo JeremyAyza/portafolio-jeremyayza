@@ -3,7 +3,7 @@ import './App.css';
 import Nav from './Componentes/Nav/Nav';
 import Home from './Componentes/Home/Home';
 import About from './Componentes/About/About';
-import Services from './Componentes/Services/Services';
+import Qualities from './Componentes/Qualities/Qualities';
 import Portafolio from './Componentes/Portafolio/Portafolio';
 import Contact from './Componentes/Contact/Contact';
 import Footer from './Componentes/Footer/Footer';
@@ -16,7 +16,7 @@ function App() {
       <Home></Home>
       <div className="container">
       <About></About>
-      <Services></Services>
+      <Qualities></Qualities>
       <Portafolio></Portafolio>
       <Contact></Contact>
       </div>

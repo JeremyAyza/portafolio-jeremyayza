@@ -1,6 +1,6 @@
 import { ComponentElement, ReactComponentElement, ReactNode } from "react";
 import { FaMobileAlt } from "react-icons/fa";
-import "./ServicesItem.css"
+import "./QualitiesItem.css"
 
 
 export default function ServicesItem(props:ServicesItemProps) {

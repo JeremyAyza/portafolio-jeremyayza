@@ -1,7 +1,6 @@
-import { HookCallbacks } from "async_hooks"
 import "./BurguerBtn.css"
 
-export default function BurgerBtn(props:BurgerBtn) {
+export default function BurgerBtn(props:IBurgerBtn) {
 	return (
 		<div 
 			onClick={props.handleClick} 
@@ -14,7 +13,7 @@ export default function BurgerBtn(props:BurgerBtn) {
 	)
 }
 
-interface BurgerBtn{
+interface IBurgerBtn{
 	handleClick:()=>void,
 	clicked: boolean
 

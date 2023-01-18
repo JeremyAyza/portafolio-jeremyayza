@@ -9,7 +9,7 @@ export default function Contact() {
 		<section className="contact" id="contact">
 			<h2 className="section__title">Contact</h2>
 			<div className="contact_content">
-				<h3>Contact me if you want us to work together.</h3>
+				<h3>Contáctame para trabajar juntos</h3>
 				<div className="container-contact">
 
 					<ContactItem
@@ -21,7 +21,7 @@ export default function Contact() {
 					<ContactItem
 						iconName={<SiGmail className="contact-icon" />}
 						description="Mail"
-						link="mailto:ayzajeremyx7x@gmail.com?subject=I%20want%20to%20contact%20you" 
+						link="mailto:jeremy.ayza@gmail.com?subject=I%20want%20to%20contact%20you" 
 						color="#f22"
 					/>
 					
@@ -39,11 +39,6 @@ export default function Contact() {
 						color="#2AABEE "
 					/>
 					
-
-					
-
-
-
 
 				</div>
 			</div>
