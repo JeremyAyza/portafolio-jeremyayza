@@ -12,7 +12,7 @@ export default function Home() {
 				<div className="home__description">
 					<span className="home__title--primary">Hi!</span>
 					<h1 className="home__title" >I'm Jeremy Ayza</h1>
-					<span className="home__title--secondary">Front-End Developer</span>
+					<span className="home__title--secondary">Web Developer</span>
 				</div>
 			</section>
 
