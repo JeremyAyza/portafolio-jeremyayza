@@ -16,7 +16,7 @@ export default function About() {
 				<div className="about_content">
 
 					<div className="about_item ">
-						<h3>I'm Jeremy Ayza, Front-end Developer.</h3>
+						<h3>Soy Jeremy Ayza, Web Developer.</h3>
 						<div className="about_description">
 						<p>Me gusta aprender cosas nuevas y practicar constantemente lo que aprendo, estudio diariamente para perfeccionarme y ampliar mis conocimientos.</p>
 						<p>Mi lenguaje favorito es JavaScript por lo flexible que es. Buscar soluciones novedosas a problemas mediante el razonamiento, lógica y pensamiento creativo es por lo que me gusta de la programación. Siempre busco mejorar mis habilidades y enfrentarme a nuevos retos para seguir creciendo profesionalmente.</p>
