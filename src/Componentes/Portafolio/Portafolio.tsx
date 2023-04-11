@@ -38,14 +38,6 @@ export default function Portafolio() {
 				></Projects>
 
 				
-				<Projects
-					imgName="calculadora-react"
-					title="React Calculator"
-					description="Web Application: React JS"
-					urlRepostitory="https://github.com/JeremyAyza/calculadora-react"
-					urlWebsite="https://calculator-react-ja.netlify.app/"
-				></Projects>
-				
 
 				<Projects
 					imgName="api-joe"
@@ -72,6 +64,14 @@ export default function Portafolio() {
 				
 
 				
+				
+				<Projects
+					imgName="shaddai_page"
+					title="Ecommerce Shaddai Import"
+					description="Full Stack Web App: React, Node, Express, MongoDB & BootStrap"
+					urlRepostitory="https://github.com/JeremyAyza/front-end-shaddai"
+					urlWebsite="https://frontend-shaddai.onrender.com/"
+				></Projects>
 
 				
 
