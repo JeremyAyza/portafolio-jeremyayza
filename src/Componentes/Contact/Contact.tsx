@@ -28,7 +28,7 @@ export default function Contact() {
 					<ContactItem
 						iconName={<FaLinkedinIn className="contact-icon" />}
 						description="Linkedin"
-						link="https://www.linkedin.com/in/JeremyAyzaMatias/" 
+						link="https://www.linkedin.com/in/JeremyAyza/" 
 						color="#0A66C2"
 					/>
 					
