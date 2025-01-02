@@ -27,7 +27,7 @@ export default function About() {
 
 
 						<div className="container_btn-cv">
-							<a href="https://drive.google.com/uc?export=download&id=1z9NaNi2gXSx2CuCnh9OSUHcl2RHpYG9i" target={"_blank"} rel="noreferrer" className="btn-cv"><FaFileDownload /> Descargar CV</a>
+							<a href="https://drive.google.com/uc?export=download&id=1tQX_XL4iIcIwnwAR6ghO4wdYr-dvvmHK" target={"_blank"} rel="noreferrer" className="btn-cv"><FaFileDownload /> Descargar CV</a>
 						</div>
 					</div>
 				</div>
